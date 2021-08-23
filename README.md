@@ -14,12 +14,11 @@
 <br>
 
 ### Skills:
-[<img align = "left" alt = "HTML" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/html-3628838-3030115.png"/>]
-[<img align = "left" alt = "CSS" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png"/>]
-[<img align = "left" alt = "Bootstrap" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/bootstrap-3628663-3029888.png"/>]
-[<img align = "left" alt = "JavaScript" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png"/>]
-[<img align = "left" alt = "Java" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/java-3628857-3029997.png"/>]
-[<img align = "left" alt = "C" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/c-58-1175247.png"/>]
-[<img align = "left" alt = "C++" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png"/>]
-[<img align = "left" alt = "Python" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/python-3628999-3030224.png"/>]
-<!-- Logos from https://iconscout.com/ -->
+[<img align = "left" alt = "HTML" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/html-3628838-3030115.png" />]
+[<img align = "left" alt = "CSS" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" />]
+[<img align = "left" alt = "Bootstrap" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/bootstrap-3628663-3029888.png" />]
+[<img align = "left" alt = "JavaScript" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" />]
+[<img align = "left" alt = "Java" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/java-3628857-3029997.png" />]
+[<img align = "left" alt = "C" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/c-58-1175247.png" />]
+[<img align = "left" alt = "C++" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" />]
+[<img align = "left" alt = "Python" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/python-3628999-3030224.png" />]

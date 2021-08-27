@@ -1,4 +1,4 @@
-### Hey there! My name is Zeerak 🐱‍👤.
+### Hey there! My name is Zeerak.
 ##
                                                             (Queen's University Flag)
                                                                      .

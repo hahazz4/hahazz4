@@ -24,3 +24,5 @@
 <img align = "left" alt = "C" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/c-58-1175247.png" />
 <img align = "left" alt = "C++" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" />
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/python-3628999-3030224.png" />
+<img align = "left" alt = "Node.js" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" />
+<img align = "left" alt = "Express.js" width = "26px" src = "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />

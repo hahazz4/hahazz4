@@ -7,7 +7,7 @@
                                                                      |
                                                                      |
 ##                                                                     
-## I am a 2nd Year Computer Engineering Student @ Queen's University                                                                  |
+## I am a 3rd Year Computer Engineering Student @ Queen's University                                                                  |
 - 📚 What I am doing right now: I am currently working on a web development course from Udemy. 
 - Course Link: [https://www.udemy.com/course/the-web-developer-bootcamp/]
 - 🏸 Favorite Sports: I love to play basketball 🏀, soccer ⚽, and badminton 🏸. Although I am not good in either sport anymore 😂.

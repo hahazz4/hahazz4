@@ -8,9 +8,9 @@
                                                                      |
 ##                                                                     
 ## I am a 3rd Year Computer Engineering Student @ Queen's University                                                                  |
-- 📚 What I am doing right now: I am currently working on a web development course from Udemy. 
-- Course Link: [https://www.udemy.com/course/the-web-developer-bootcamp/]
-- 🏸 Favorite Sports: I love to play basketball 🏀, soccer ⚽, and badminton 🏸. Although I am not good in either sport anymore 😂.
+- 📚 What I am doing right now: I am currently working on a courses from Udemy. 
+- Here is a course link I am working on: [https://www.udemy.com/course/the-web-developer-bootcamp/]
+- 🏸 Favorite Sports: I love to play basketball 🏀, soccer ⚽, and badminton 🏸.
 - ⌛ Goal: To learn full stack development, and explore multiple different specialties of Software Engineering before I graduate.
 - 📧 Contact Me: Feel free to email me or connect with on LinkedIn if you want to collaborate on a project or have any questions. 
 - Email: [Z_zee09@hotmail.com] LinkedIn: [https://www.linkedin.com/in/zeerak-asim-7a62101b9/]
@@ -26,3 +26,4 @@
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/python-3628999-3030224.png" />
 <img align = "left" alt = "Node.js" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" />
 <img align = "left" alt = "Express.js" width = "26px" src = "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+<img align = "left" alt = "React.js" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />

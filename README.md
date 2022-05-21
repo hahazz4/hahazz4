@@ -8,7 +8,7 @@
                                                                      |
 ##                                                                     
 ## I am a 3rd Year Computer Engineering Student @ Queen's University                                                                  |
-- 📚 What I am doing right now: I am currently working on a courses from Udemy. 
+- 📚 What I am doing right now: I am currently working on multiple courses from Udemy. 
 - Here is a course link I am working on: [https://www.udemy.com/course/the-web-developer-bootcamp/]
 - 🏸 Favorite Sports: I love to play basketball 🏀, soccer ⚽, and badminton 🏸.
 - ⌛ Goal: To learn full stack development, and explore multiple different specialties of Software Engineering before I graduate.

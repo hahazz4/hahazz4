@@ -27,3 +27,5 @@
 <img align = "left" alt = "Node.js" width = "26px" src = "https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" />
 <img align = "left" alt = "Express.js" width = "26px" src = "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 <img align = "left" alt = "React.js" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hahazz4&theme=dark)

@@ -8,7 +8,8 @@
                                                                      |
 ##                                                                     
 ## I am a 3rd Year Computer Engineering Student @ Queen's University                                                                  
-- 👔 Current Occupation: Currently working in Gunkii as a Software Development Intern and studying for summer courses. 
+- 🧠 Current Occupation: I am currently an engineering student learning and focusing on university course content.
+- 👔 Past Occupation: Worked at Gunkii as a Software Development Intern (July 2022 - Sept 2022). 
 - ⌚ What I am doing right now: Currently working on multiple courses from Udemy. 
 - 📚 Here is a course link I am working on: [https://www.udemy.com/course/the-web-developer-bootcamp/]
 - 🏸 Favorite Sports: I love to play basketball 🏀, soccer ⚽, and badminton 🏸.

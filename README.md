@@ -10,13 +10,13 @@
 ## I am a 3rd Year Computer Engineering Student @ Queen's University                                                                  
 - 🧠 Current Occupation: I am currently an engineering student learning and focusing on university course content.
 - 👔 Past Occupation: Worked at Gunkii as a Software Development Intern (July 2022 - Sept 2022). 
-- ⌚ What I am doing in free time: Watching YouTube, studying data structures and Big O, cooking or cleaning, and of course playing pc games on the weekend for a bit. 
-- 📚 Here is a course link I was studying: [https://www.udemy.com/course/the-web-developer-bootcamp/]
+- ⌚ What I am doing in my free time: Watching YouTube, studying data structures and Big O, cooking or cleaning, and of course, playing pc games on the weekend. 
+- 📚 Here is a course link I was studying: [https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/]
 - 🏸 Favorite Sports: I love to play basketball 🏀, soccer ⚽, and badminton 🏸.
-- ⌛ Goal: To learn full stack development, and explore multiple different specialties of Software Engineering before I graduate.
-- 💻 Visit My Website: Feel free to visit my website to learn more about me, my skills, experience and projects! [https://www.zeerakasim.me/]
-- 📧 Contact Me: Feel free to email me or connect with on LinkedIn if you want to collaborate on a project or have any questions.
-- Email: [Z_zee09@hotmail.com] LinkedIn: [https://www.linkedin.com/in/zeerak-asim-7a62101b9/]
+- ⌛ Goal: To learn full stack development, cloud computing, some data science and explore other specialties of Software Engineering before I graduate.
+- 💻 Visit My Website: Feel free to visit my website to learn more about me, my skills, my experience, and my projects! [https://www.zeerakasim.me/]
+- 📧 Contact Me: Feel free to email me or connect with me on LinkedIn if you want to collaborate on a project or have any questions.
+- Email: [asim.zeerak@gmail.com] LinkedIn: [https://www.linkedin.com/in/zeerak-asim-7a62101b9/]
 
 ##
 ### Skills:

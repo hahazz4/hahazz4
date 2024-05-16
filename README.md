@@ -32,12 +32,3 @@
 <img align = "left" alt = "Express.js" width = "26px" src = "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 <img align = "left" alt = "React.js" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 <br />
-
-##
-### My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hahazz4&theme=dark)
-##
-
-### My Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/hahazz4)
-##

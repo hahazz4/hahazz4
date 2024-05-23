@@ -7,14 +7,14 @@
                                                                      |
                                                                      |
 ##                                                                     
-## I am a 4th Year Computer Engineering Student @ Queen's University                                                                  
-- 🧠 Current Occupation: I am currently an engineering student learning and focusing on university course content.
-- 👔 Past Occupation: Worked at Gunkii as a Software Development Intern (July 2022 - Sept 2022). 
+## I am a New Computer Engineering Graduate From Queen's University                                                                  
+- 🧠 Current Occupation: I am currently seeking new engineering opportunities as a new graduate.
+- 👔 Past Engineering Occupation: Worked at Gunkii as a Software Development Intern (July 2022 - Sept 2022).
 - ⌚ What I do in my free time: Watching YouTube, studying leetcode, cooking or cleaning, and of course, playing PC games on the weekend. 
 - 📚 Here is a course link I was studying: [https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/]
 - 🏸 Favorite Sports: I love to play basketball 🏀, soccer ⚽, and badminton 🏸.
 - ⌛ Goal: To learn full stack development, cloud computing, and some data science and explore other specialties of Software Engineering before I graduate.
-- 💻 Visit My Website: Feel free to visit my website to learn more about me, my skills, my experience, and my projects! [https://www.zeerakasim.me/]
+- 💻 Visit My Website: Feel free to visit my website to learn more about me, my skills, my experience, and my projects! [https://www.zeerakasim.ca/]
 - 📧 Contact Me: Feel free to email me or connect with me on LinkedIn if you want to collaborate on a project or have any questions.
 - Email: [asim.zeerak@gmail.com] LinkedIn: [https://www.linkedin.com/in/zeerak-asim-7a62101b9/]
 

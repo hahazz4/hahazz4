@@ -7,8 +7,8 @@
                                                                      |
                                                                      |
 ##                                                                     
-## I am a New Computer Engineering Graduate From Queen's University                                                                  
-- 🧠 Current Occupation: I am currently seeking new engineering opportunities as a new graduate.
+## I am a Recent Computer Engineering Graduate From Queen's University                                                                  
+- 🧠 Current Occupation: I am currently seeking new software engineering opportunities as a recent graduate, in a fellowship with Headstarter Ai.
 - 👔 Past Engineering Occupation: Worked at Gunkii as a Software Development Intern (July 2022 - Sept 2022).
 - ⌚ What I do in my free time: Watching YouTube, studying leetcode, cooking or cleaning, and of course, playing PC games on the weekend. 
 - 📚 Here is a course link I was studying: [https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/]

@@ -1,11 +1,11 @@
 ### Hey there! My name is Zeerak.
-##
+<!--##
                                                             (Queen's University Flag)
                                                                      .
                                                                      |🟦🟨🟥
                                                                      |🟦🟨🟥
                                                                      |
-                                                                     |
+                                                                     |-->
 ##                                                                     
 ## I am a Recent Computer Engineering Graduate From Queen's University                                                                  
 - 🧠 Current Occupation: I am currently seeking new software engineering opportunities as a recent graduate, in a fellowship with Headstarter Ai.

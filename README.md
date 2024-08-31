@@ -8,7 +8,7 @@
                                                                      |-->                                                                     
 ## I am a New Computer Engineering Graduate From Queen's University                                                                  
 - 🧠 Current Occupation: Seeking new software engineering opportunities as a new grad, in a fellowship with Headstarter.
-- ⌚ What I do in my free time: Watching YouTube, cooking, cleaning, develop random project ideas, and of course play on my PC during the weekends.
+- ⌚ What I do in my free time: Watching YouTube, cleaning, cooking food, or cooking project ideas. Last but not least! Playing on my PC during the weekends :)
 - 📚 Here is a course link I was studying: [https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/]
 - 🏸 Favorite Sports: I love to play basketball 🏀, soccer ⚽, badminton 🏸, and volleyball 🏐
 - ⌛ Goal: To learn full stack development, cloud computing, AI, data science and explore other specialties of Software Engineering before I graduate. Update 1 (2024): Still practicing, and actively learning backend. Have achieved some decent skills with frontend, and got some exposure to AI due to recent fellowship.

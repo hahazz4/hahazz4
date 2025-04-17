@@ -7,7 +7,7 @@
                                                                      |
                                                                      |-->                                                                     
 ## I am a New Computer Engineering Graduate From Queen's University                                                                  
-- 🧠 Current Occupation: Seeking new software engineering opportunities as a new grad, in a fellowship with Headstarter.
+- 🧠 Current Occupation: Seeking entry/new grad Software Engineering opportunities.
 - ⌚ What I do in my free time: Watching YouTube, cleaning, cooking food, or cooking project ideas. Last but not least! Playing on my PC during the weekends :)
 - 📚 Here is a course link I am currently studying: [https://www.udemy.com/course/aws-ai-practitioner-certified/]
 - 🏸 Favorite Sports: I love to play basketball 🏀, soccer ⚽, badminton 🏸, and volleyball 🏐

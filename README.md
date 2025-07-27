@@ -8,7 +8,7 @@
                                                                      |-->                                                                     
 ## I am a Recent Computer Engineering Graduate From Queen's University                                                                  
 - 🧠 Current Occupation: Seeking entry/new grad Software Engineering opportunities.
-- ⌚ What I do in my free time: Watching YouTube, cleaning, cooking food, or cooking project ideas. Last but not least! Playing on my PC during the weekends :)
+- ⌚ What I do in my free time: Freelancing for companies by making websites and apps, watching YouTube, cleaning, cooking food or cooking project ideas. Last but not least! Play on my PC during the weekends :)
 - 📚 Here is a course link I am currently studying: [https://www.udemy.com/course/aws-ai-practitioner-certified/]
 - 🏸 Favorite Sports: I love to play basketball 🏀, soccer ⚽, badminton 🏸, and volleyball 🏐
 - ⌛ Goal: To learn full stack development, cloud computing, AI, data science and explore other specialties of Software Engineering before I graduate. Update 1 (2024): Still practicing, and actively learning backend. Have achieved some decent skills with frontend, and got some exposure to AI due to recent fellowship.
